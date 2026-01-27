@@ -5,8 +5,6 @@
 Projeto criado por Desirée Lefundes e Priscilla Trevizan para para compor nota de avaliação no projeto final do Co﻿deRDIversity realizado pela RDI Software + Prosper Digital Skills.
 
 ## Tecnologias usadas:
-* **HTML5** – Linguagem de marcação para a estruturação dos elementos das páginas web.
-* **CSS3** – Linguagem de estilização para o design, layout e responsividade do sistema.
 * **C#** – Linguagem de programação multiparadigma utilizada no desenvolvimento do backend.
 * **.NET 10.0** – Framework multiplataforma utilizado para a construção da arquitetura do sistema.
 * **Visual Studio Code** – IDE (Ambiente de Desenvolvimento Integrado) utilizada para a codificação e depuração.
